@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dosawebsite/static/css/main.6d73f29e.chunk.css",
+    "main.js": "/dosawebsite/static/js/main.b130debb.chunk.js",
+    "main.js.map": "/dosawebsite/static/js/main.b130debb.chunk.js.map",
+    "runtime-main.js": "/dosawebsite/static/js/runtime-main.3191547e.js",
+    "runtime-main.js.map": "/dosawebsite/static/js/runtime-main.3191547e.js.map",
+    "static/js/2.d48e7ce2.chunk.js": "/dosawebsite/static/js/2.d48e7ce2.chunk.js",
+    "static/js/2.d48e7ce2.chunk.js.map": "/dosawebsite/static/js/2.d48e7ce2.chunk.js.map",
+    "index.html": "/dosawebsite/index.html",
+    "static/css/main.6d73f29e.chunk.css.map": "/dosawebsite/static/css/main.6d73f29e.chunk.css.map",
+    "static/js/2.d48e7ce2.chunk.js.LICENSE.txt": "/dosawebsite/static/js/2.d48e7ce2.chunk.js.LICENSE.txt",
+    "static/media/Capture1.fa39d997.JPG": "/dosawebsite/static/media/Capture1.fa39d997.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3191547e.js",
+    "static/js/2.d48e7ce2.chunk.js",
+    "static/css/main.6d73f29e.chunk.css",
+    "static/js/main.b130debb.chunk.js"
+  ]
+}
